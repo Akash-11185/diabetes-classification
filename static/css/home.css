@@ -1,14 +1,9 @@
 .center {
     margin: auto;
     margin-top: 2rem;
-    width: 50%;
+    width: 60%;
     border: 2px solid #898f9c;
     border-radius: 20px;
-    padding: 1rem;
-    padding-top: 2rem;
-    padding-left:10rem ;
-    padding-right: 10rem;;
-    padding-bottom: 0rem;
     background-color:#4267b2;
 
 }
@@ -42,7 +37,7 @@
 }
 
 input{
-    width: 100%;
+    width: 80%;
 }
 body{
     background:#D3D3D3;
@@ -66,8 +61,8 @@ h3{
     text-align: center;
 }
 input[type=text]{
-    width: 100%;
     border-radius: 7px;
+    height: 35px;
     border-color:#fff;
 }
 .page-footer{
